@@ -1,5 +1,5 @@
 # SAES
-This repository offer an approach to combine the Covariance Matrix Adaptive Evolution Strategy (CMA-ES) and Bayesian Optimization (BO). 
+This repository offers an approach to combine the Covariance Matrix Adaptive Evolution Strategy (CMA-ES) and Bayesian Optimization (BO). 
 
 ## Bayesian optimization assisted by CMA-ES 
 This part mainly focusses on searching the approximate best solution to the surrogate model built by gaussian processes. CMA-ES is adopting on the acquisition function as the optimization method 
