@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+.ipynb_checkpoints/
+.stfolder/
+.stversions/
+logs/
+Data/
+Numpy&Pandas/
+Research_notes/
+Data_result/
+*.pkl
+*.npy
+*.txt
+*.json
+*.avi
+*.npy
+.stignore
